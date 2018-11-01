@@ -47,5 +47,12 @@
   "address": "0x169a4d7ab1244eb57433082b94d8ded5bb97483f",
   "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/bfm.png",
   "forum": "https://forum.saturn.network/t/bitunits-fermium-bfm-the-lowest-supply-token-yet/2160"
+  },
+  {
+    "name": "Litecoin Classic Token",
+    "symbol": "LCT",
+    "address": "0x4a3a14d47634e0712b1aa33f17ec31316a0d5bab",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/0x4a3a14d47634e0712b1aa33f17ec31316a0d5bab.png",
+    "forum": "https://forum.saturn.network/t/litecoin-classic-token/2229"
   }
 ]
