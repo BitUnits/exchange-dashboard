@@ -49,10 +49,17 @@
     "forum": "https://forum.saturn.network/t/bitunits-fermium-bfm-the-lowest-supply-token-yet/2160"
   },
   {
-  "name": "Phoenix",
-  "symbol": "PHX",
-  "address": "0x8900f34372f27ebb5881d4ec6b35844a3655ccfc",
-  "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/phx.png",
-  "forum": "https://forum.saturn.network/t/announcing-phoenix-crypto-security/1365"
+    "name": "Litecoin Classic Token",
+    "symbol": "LCT",
+    "address": "0x4a3a14d47634e0712b1aa33f17ec31316a0d5bab",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/0x4a3a14d47634e0712b1aa33f17ec31316a0d5bab.png",
+    "forum": "https://forum.saturn.network/t/litecoin-classic-token/2229"
+  },
+  {
+    "name": "Phoenix",
+    "symbol": "PHX",
+    "address": "0x8900f34372f27ebb5881d4ec6b35844a3655ccfc",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/phx.png",
+    "forum": "https://forum.saturn.network/t/announcing-phoenix-crypto-security/1365"
   }
 ]
