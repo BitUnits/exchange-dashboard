@@ -18,3 +18,5 @@
 - Step 4: Create a Pull Request.
 
 ### Please note we have to manually approve pull requests and we may refuse requests containing abusive content or misleading information that will alienate our website visitors. 
+
+### Our exchange is censorship-free, so steps above are not a requirement for your token to be tradable.
