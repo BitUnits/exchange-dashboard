@@ -10,7 +10,7 @@
   "name": "Token Name",
   "symbol": "Token Ticker",
   "address": "Token Address",
-  "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/YOUR_TOKEN_LOGO.png",
+  "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/YOUR_TOKEN_SYMBOL.png",
   "forum": "Link to your topic on https://forum.saturn.network/"
 }
 ```
