@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Saturn Classic DAO Token",
+    "symbol": "SATURN",
+    "address": "0xac55641cbb734bdf6510d1bbd62e240c2409040f",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/saturn.png"
+  },
+  {
+    "name": "Bitcoin Classic Token",
+    "symbol": "BCT",
+    "address": "0x1be6d61b1103d91f7f86d47e6ca0429259a15ff0",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/bct.png"
+  },
+  {
+    "name": "BitUnits",
+    "symbol": "UNITS",
+    "address": "0xd1c10d433c888e6d1841ff924d0ce45157f0d5cd",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/units.png"
+  },
+  {
+    "name": "P9 Database Token",
+    "symbol": "P9DATA",
+    "address": "0x508b2df04fad2d6d615e5976df13d429f007457c",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/p9.png"
+  },
+  {
+    "name": "Highlander",
+    "symbol": "ONE",
+    "address": "0xfc07d3e0e36330a151c09384c3ad45e745227688",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/p9.png"
+  }
+]
