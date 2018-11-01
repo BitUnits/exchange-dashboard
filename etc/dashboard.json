@@ -47,5 +47,12 @@
     "address": "0x169a4d7ab1244eb57433082b94d8ded5bb97483f",
     "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/bfm.png",
     "forum": "https://forum.saturn.network/t/bitunits-fermium-bfm-the-lowest-supply-token-yet/2160"
+  },
+  {
+  "name": "Phoenix",
+  "symbol": "PHX",
+  "address": "0x8900f34372f27ebb5881d4ec6b35844a3655ccfc",
+  "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/phx.png",
+  "forum": "https://forum.saturn.network/t/announcing-phoenix-crypto-security/1365"
   }
 ]
