@@ -38,15 +38,14 @@
   "name": "BitUnits Titan",
   "symbol": "TITAN",
   "address": "0x690d4d5e3722e140fca16e25e7a579588d93eb75",
-  "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/0x690d4d5e3722e140fca16e25e7a579588d93eb75.png",
+  "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/titan.png",
   "forum": "https://forum.saturn.network/t/bitunits-titan-loyalty-program-for-trading-etc-on-saturn-network/2129"
-},
+  },
   {
   "name": "BitUnits Fermium",
   "symbol": "BFM",
   "address": "0x169a4d7ab1244eb57433082b94d8ded5bb97483f",
-  "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/0x169a4d7ab1244eb57433082b94d8ded5bb97483f.png",
+  "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/bfm.png",
   "forum": "https://forum.saturn.network/t/bitunits-fermium-bfm-the-lowest-supply-token-yet/2160"
-}
- 
+  }
 ]
