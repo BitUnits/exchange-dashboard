@@ -68,5 +68,12 @@
     "address": "0x05a987a86b83983be95cf18547fd64afa443d4dd",
     "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/anti.png",
     "forum": "https://forum.saturn.network/t/anarchypedia-a-brief-introduction"    
+  },
+  {
+    "name": "Dogecoin Classic Token",
+    "symbol": "DOGECT",
+    "address": "0xff8596169865c7cc1458b1c0eccafd4092c7f10f",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/DOGECT.png",
+    "forum": "https://forum.saturn.network/t/dogecoin-classic-token/2230"
   }
 ]
