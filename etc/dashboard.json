@@ -73,14 +73,14 @@
     "name": "Dogecoin Classic Token",
     "symbol": "DOGECT",
     "address": "0xff8596169865c7cc1458b1c0eccafd4092c7f10f",
-    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/DogeCT.png",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/dogect.png",
     "forum": "https://forum.saturn.network/t/dogecoin-classic-token/2230"
   },
   {
     "name": "BitUnits Proof Of Work Reward",
     "symbol": "BPOWR",
     "address": "0x7b355c571fede83f152e9585143306c0d2b53193",
-    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/BPOWR.png",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/bpowr.png",
     "forum": "https://forum.saturn.network/t/bitunits-proof-of-work-reward/2232"
   }
 ]
