@@ -61,5 +61,12 @@
     "address": "0x8900f34372f27ebb5881d4ec6b35844a3655ccfc",
     "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/phx.png",
     "forum": "https://forum.saturn.network/t/announcing-phoenix-crypto-security/1365"
+  },
+  {
+    "name": "Anarchypedia",
+    "symbol": "ANTI",
+    "address": "0x05a987a86b83983be95cf18547fd64afa443d4dd",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/anti.png",
+    "forum": "https://forum.saturn.network/t/anarchypedia-a-brief-introduction"    
   }
 ]
