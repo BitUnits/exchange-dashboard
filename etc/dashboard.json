@@ -89,5 +89,13 @@
     "address": "0x1178d40896cf784db203eb40f159d78ab6e99a29",
     "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/ietc.png",
     "forum": "https://forum.saturn.network/t/ietc-what-bitcoin-was-supposed-to-be/2249"
+  },
+  {
+    "name": "Classic Cannabis Joints",
+    "symbol": "WEED",
+    "address": "0x1fe3164da6b47c52349e98c14440879a42852d71",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/weed.png",
+    "forum": "https://forum.saturn.network/t/classic-cannabis-joints-weed"
   }
 ]
+
