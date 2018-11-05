@@ -96,6 +96,13 @@
     "address": "0x1fe3164da6b47c52349e98c14440879a42852d71",
     "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/weed.png",
     "forum": "https://forum.saturn.network/t/classic-cannabis-joints-weed"
+  },
+  {
+    "name": "BitUnits Indo",
+    "symbol": "XNDO",
+    "address": "0x64fd6eeb4c86a66b0cfeeafec11fbc57a2993e67",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/XNDO.png",
+    "forum": "https://forum.saturn.network/t/bitunits-indonesia-xndo/2266"
   }
 ]
 
