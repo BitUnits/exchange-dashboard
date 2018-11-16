@@ -103,6 +103,13 @@
     "address": "0x64fd6eeb4c86a66b0cfeeafec11fbc57a2993e67",
     "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/XNDO.png",
     "forum": "https://forum.saturn.network/t/bitunits-indonesia-xndo/2266"
+  },
+  {
+    "name": "BitUnits Millium",
+    "symbol": "MLIUM",
+    "address": "0x690d4d5e3722e140fca16e25e7a579588d93eb75",
+    "logo": "https://saturn-network.github.io/exchange-dashboard/etc/logo/MLIUM.png",
+    "forum": "https://forum.saturn.network/t/bitunits-millium-is-here/2377"
   }
 ]
 
